@@ -18,3 +18,8 @@ ul {
 li+li {
   margin-left: 24px;
 }
+
+a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
